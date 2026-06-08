@@ -10,12 +10,9 @@
 
 | Name | Registration No. |
 |------|-----------------|
-| M. Jahnavi | 202121012 |
 | Chitluri Likhitha | 202121005 |
-
 **Internal Guide:** K. Bhagyalakshmi, Head of Department, Statistics
-
----
+-
 
 ## 📋 Table of Contents
 
